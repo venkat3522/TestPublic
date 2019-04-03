@@ -3,13 +3,13 @@ define( function ( require ) {
 	"use strict";
 
 	return {
-		app_slug : 'my-shop',
-		wp_ws_url : 'https://dataviolet.com/shop/wp-appkit-api/my-shop',
+		app_slug : 'com_dataviolet_shop3',
+		wp_ws_url : 'https://dataviolet.com/shop/wp-appkit-api/com_dataviolet_shop3',
 		wp_url : 'https://dataviolet.com/shop',
 		theme : 'q-android',
-		version : '1.0',
+		version : '1.4',
 		app_type : 'phonegap-build',
-		app_title : 'My Shop',
+		app_title : 'DataViolet_Shop3',
 		app_platform : 'android',
 		app_path: '',
 		gmt_offset : 0,

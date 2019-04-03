@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "12345"
-        versionCode = ""
-        version     = "1.0" >
+        id          = "1988"
+        versionCode = "25"
+        version     = "1.4" >
 
-	<name>My Shop</name>
+	<name>com.dataviolet.shop2</name>
 
-	<description>Shop here for daily needs</description>
+	<description>Local Shop for needs</description>
 
-	<author href="" email=""></author>
+	<author href="https://dataviolet.com" email="v.venki05@gmail.com">Venky1988</author>
 
 	<gap:platform name="android" />
 	
