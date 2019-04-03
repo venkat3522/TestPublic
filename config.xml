@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "1988"
+        id          = "2"
         versionCode = "25"
         version     = "1.4" >
 
@@ -9,7 +9,7 @@
 
 	<description>Local Shop for needs</description>
 
-	<author href="https://dataviolet.com" email="v.venki05@gmail.com">Venky1988</author>
+	<author href="https://dataviolet.com" email="v.venki05@gmail.com">Venky88</author>
 
 	<gap:platform name="android" />
 	
