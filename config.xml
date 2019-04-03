@@ -5,7 +5,7 @@
         versionCode = "25"
         version     = "1.4" >
 
-	<name>com.dataviolet.shop2</name>
+	<name>com.dataviolet.shopapp</name>
 
 	<description>Local Shop for needs</description>
 
@@ -14,7 +14,7 @@
 	<gap:platform name="android" />
 	
 	<!-- General preferences -->
-	<preference name="android-targetSdkVersion" value="26" />
+	<preference name="android-targetSdkVersion" value="28" />
 	<preference name="buildArchitecture" value="arm" />
 	<preference name="android-build-tool" value="gradle" />
 	<preference name="permissions" value="none"/>
